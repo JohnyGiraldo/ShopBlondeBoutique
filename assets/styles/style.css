@@ -1,3 +1,18 @@
+*::after;
+*::before;
+     margin: 0;
+     padding: 0;
+
+
+
 h1 {
     color: blueviolet
+}
+
+.contenedorfoto{
+    width: 98vw;
+}
+
+.contenedorfoto img{
+    width: 100%;
 }
