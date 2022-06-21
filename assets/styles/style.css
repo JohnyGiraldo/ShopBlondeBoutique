@@ -1,18 +1,10 @@
-*::after;
-*::before;
-     margin: 0;
-     padding: 0;
+*::after,
+*::before {
+      margin: 0;
+      padding: 0;
+    }
 
-
-
-h1 {
-    color: blueviolet
-}
-
-.contenedorfoto{
-    width: 50vw;
-}
-
-.contenedorfoto img{
-    width: 100%;
+.redessociales {
+    height: 5px;
+    height: 5px;
 }
