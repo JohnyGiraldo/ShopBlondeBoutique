@@ -4,7 +4,13 @@
       padding: 0;
     }
 
-.redessociales {
-    height: 5px;
-    height: 5px;
+.contenedorredes {
+    background-color: blue;
+    padding: 1rem;
+}
+
+.contenedorredes,redes, img{
+    height: 30px;
+    height: 30px;
+    align-items: flex-end;
 }
