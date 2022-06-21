@@ -9,8 +9,22 @@
     padding: 1rem;
 }
 
-.contenedorredes,redes, img{
+.redes, img{
     height: 30px;
     height: 30px;
-    align-items: flex-end;
+    align-content: flex-end;
+}
+
+.categorias, li {
+    list-style: none;
+    display: inline;
+    padding-left: 3px;
+    padding-right: 3px;
+    font-size: 25px;
+    
+}
+
+.contenedor-botones {
+    background-color: yellow;
+    padding: 0.5rem;
 }
