@@ -4,27 +4,7 @@
       padding: 0;
     }
 
-.contenedorredes {
-    background-color: blue;
-    padding: 1rem;
-}
-
-.redes, img{
-    height: 30px;
-    height: 30px;
-    align-content: flex-end;
-}
-
-.categorias, li {
-    list-style: none;
-    display: inline;
-    padding-left: 3px;
-    padding-right: 3px;
-    font-size: 25px;
-    
-}
-
-.contenedor-botones {
-    background-color: yellow;
-    padding: 0.5rem;
-}
+    .logo {
+        width: 4rem;
+        height: auto;
+    }   
