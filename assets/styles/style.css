@@ -45,7 +45,7 @@
 /*Finaliza Estilos Carrusel */
     
 /*Inicia Estilos Main */
-
+/*Nuevos productos*/
 h5 {
   margin-top: 5rem;
   margin-bottom: 2rem;
@@ -63,37 +63,27 @@ h5 {
   margin-left: 22rem;
 }
 
-#nuevostilo {
-  width: 70rem;
-  height: 20rem;
+.d-flex h3 {
+  padding: 1rem/1rem/0/1rem;
+  margin-left: 7rem;
+  margin-right: 8rem;
 }
-
-.new {
-  justify-content: center;
+.d-flex p {
+  padding-left: 1rem;
+  margin-left: 9rem;
+  margin-right: 8.5rem;
+  padding-bottom: 2rem;
 }
-
-#cambio {
-  
-  flex-wrap: wrap-reverse;
-
-}
-
-#nuevosproductos2 img {
-  width: 20rem;
-  height: 25rem;
-  margin-left: 16rem;
-}
-
-
+/*Finaliza Nuevos productos*/
 
 .descansador img {
-  height: 80%;
-  width: 80%;
-  margin-left: 10%;
+  height: 66%;
+  width: 66%;
+  margin-left: 18%;
 }
 
-
-.nuevosproductos1 img {
+/*Inicia productos mas vendidos*/
+.masvendidos img {
   width: 20rem;
   height: 25rem;
   margin-left: 30px;
@@ -103,11 +93,59 @@ h5 {
 .stilo1 {
   margin-left: 22rem;
 }
+/*Finaliza productos mas vendidos*/
 
+/*Inicia Footer*/
 .footer {
   background-color: black;
   width: 100%;
-  height: 20rem;
+  height: 25rem;
   margin-top: 10rem;
 }
+
+.footer img {
+  margin-left: 19rem;
+  margin-right: 7rem;
+}
+
+.color {
+  color: white;
+  font-size:x-large;
+  font-weight: 800;
+  padding-right: 26rem;
+  padding-left: 4rem;
+  text-decoration: none;
+}
+
+.centrar {
+  margin-left: 15rem;
+}
+
+.centrar1 {
+  margin-left: 9rem;
+}
+
+.color1 {
+  font-weight:bolder;
+  font-size: 17px;
+  padding-right: 5rem;
+}
+
+.footer hr {
+  color: white;
+  font-weight: bolder;
+  margin-left: 15rem;
+  margin-right: 15rem;
+}
+
+.contacto {
+margin-left: 35rem;
+color: white;
+font-weight: bolder;
+font-size: 20px;
+text-decoration: none;
+
+}
+/*Finaliza Footer*/
+
 
