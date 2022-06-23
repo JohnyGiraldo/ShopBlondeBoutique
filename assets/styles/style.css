@@ -78,16 +78,6 @@ h5 {
 
 }
 
-.nuevosproductos1 img {
-  width: 20rem;
-  height: 25rem;
-  margin-left: 30px;
-}
-
-.stilo1 {
-  margin-left: 22rem;
-}
-
 #nuevosproductos2 img {
   width: 20rem;
   height: 25rem;
@@ -95,5 +85,29 @@ h5 {
 }
 
 
-   
+
+.descansador img {
+  height: 80%;
+  width: 80%;
+  margin-left: 10%;
+}
+
+
+.nuevosproductos1 img {
+  width: 20rem;
+  height: 25rem;
+  margin-left: 30px;
+  margin-right: 11rem;
+}
+
+.stilo1 {
+  margin-left: 22rem;
+}
+
+.footer {
+  background-color: black;
+  width: 100%;
+  height: 20rem;
+  margin-top: 10rem;
+}
 
