@@ -20,6 +20,10 @@
       margin-left: 40px;
     }
 
+    .container-fluid {
+      margin-bottom: -1rem;
+    }
+
     .logo {
         width: 4rem;
         height: auto;
@@ -41,6 +45,54 @@
 /*Finaliza Estilos Carrusel */
     
 /*Inicia Estilos Main */
+
+h5 {
+  margin-top: 5rem;
+  margin-bottom: 2rem;
+  margin-left: 24rem;
+  font-weight: 700;
+}
+.nuevosproductos img {
+  width: 20rem;
+  height: 25rem;
+  margin-left: 30px;
+ 
+}
+
+.stilo {
+  margin-left: 22rem;
+}
+
+#nuevostilo {
+  width: 70rem;
+  height: 20rem;
+}
+
+.new {
+  justify-content: center;
+}
+
+#cambio {
+  
+  flex-wrap: wrap-reverse;
+
+}
+
+.nuevosproductos1 img {
+  width: 20rem;
+  height: 25rem;
+  margin-left: 30px;
+}
+
+.stilo1 {
+  margin-left: 22rem;
+}
+
+#nuevosproductos2 img {
+  width: 20rem;
+  height: 25rem;
+  margin-left: 16rem;
+}
 
 
    
