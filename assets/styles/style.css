@@ -38,114 +38,98 @@
 /*Finaliza Estilos Heater */
 
 /*Inicia Estilos Carrusel */
-    .d-block {
-      width: 500%;
-      height: 500px;
-    }
+.d-block {
+  width: 100%;
+  height: 600px;
+}
 /*Finaliza Estilos Carrusel */
     
 /*Inicia Estilos Main */
-/*Nuevos productos*/
+/*Inicia Nuevos productos*/
 h5 {
   margin-top: 5rem;
-  margin-bottom: 2rem;
-  margin-left: 24rem;
+  margin-bottom: 1rem;
+  margin-left: 1rem;
   font-weight: 700;
 }
-.nuevosproductos img {
-  width: 20rem;
-  height: 25rem;
-  margin-left: 30px;
- 
-}
 
-.stilo {
-  margin-left: 22rem;
+.col-md-6 h3 {
+text-align: center;
 }
-
-.d-flex h3 {
-  padding: 1rem/1rem/0/1rem;
-  margin-left: 7rem;
-  margin-right: 8rem;
-}
-.d-flex p {
-  padding-left: 1rem;
-  margin-left: 9rem;
-  margin-right: 8.5rem;
-  padding-bottom: 2rem;
+.col-md-6 p {
+text-align: center;
 }
 /*Finaliza Nuevos productos*/
 
 .descansador img {
-  height: 66%;
-  width: 66%;
-  margin-left: 18%;
+  height: 12rem;
+  width: 100%;
+  margin-top: 2rem;
 }
-
-/*Inicia productos mas vendidos*/
-.masvendidos img {
-  width: 20rem;
-  height: 25rem;
-  margin-left: 30px;
-  margin-right: 11rem;
-}
-
-.stilo1 {
-  margin-left: 22rem;
-}
-/*Finaliza productos mas vendidos*/
 
 /*Inicia Footer*/
-.footer {
-  background-color: black;
+/*
+.col-lg-7 {
+  
   width: 100%;
-  height: 25rem;
-  margin-top: 10rem;
-}
+  height: 15rem;
+  margin-top: 1rem;
+  text-align:center;
+}*/
 
+/*
+.col-lg-7 img {
+  margin-right: 10rem;
+  margin-left: 15rem;
+}*/
+
+
+/*
 .footer img {
-  margin-left: 19rem;
-  margin-right: 7rem;
+  width: 90px;
+  padding-top: 1rem;
+  margin-left: 20rem;
+  margin-right: 15rem;
+}*/
+
+
+.col-lg-7 a {
+  width: 90px;
+  padding-top: 1rem;
+  margin-left: 5rem;
 }
 
 .color {
   color: white;
-  font-size:x-large;
-  font-weight: 800;
-  padding-right: 26rem;
-  padding-left: 4rem;
+  font-size:large;
+  font-weight: 600;
+  margin-left: 1rem;
+  margin-right: 1.3rem;
+  
   text-decoration: none;
 }
 
-.centrar {
-  margin-left: 15rem;
-}
-
-.centrar1 {
-  margin-left: 9rem;
-}
 
 .color1 {
   font-weight:bolder;
-  font-size: 17px;
-  padding-right: 5rem;
+  font-size: 10px;
+
 }
 
 .footer hr {
   color: white;
   font-weight: bolder;
-  margin-left: 15rem;
-  margin-right: 15rem;
+  margin-left: 1rem;
+  margin-right: 1rem;
+  margin-top: 2rem;
 }
 
 .contacto {
-margin-left: 35rem;
+margin-left: 2.5rem;
 color: white;
 font-weight: bolder;
-font-size: 20px;
+font-size: 15px;
 text-decoration: none;
 
 }
 /*Finaliza Footer*/
-
-
